@@ -1,0 +1,14 @@
+# Lab 3: Work with a load-producing application on Event Streams
+**Duration:** 30 minutes
+
+In this exercise, you install another sample application that you can use to generate workloads of a specific size. You can use one of the predefined load sizes, or you can specify your own settings to test throughput.
+
+You must complete Labs 1-2 before proceeding with this lab.
+
+## Step 1. Install and configure the workload producer application
+
+1. On the ICP Master virtual machine image, open Firefox and click the **IBM Cloud Private** bookmark tab, or enter the following address in a browser:
+
+	`https://mycluster.icp:8443/`
+	
+2. On the IBM Cloud Private login page, log in with the user ID **admin** and password **admin**. 
